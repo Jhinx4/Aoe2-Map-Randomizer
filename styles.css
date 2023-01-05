@@ -1,0 +1,29 @@
+.heading-section{
+  background-color: #EAE0DA;
+  text-align: center;
+  padding:  4% 0;
+
+}
+.heading{
+  font-size: 3.25rem;
+  color:#0081C9;
+}
+
+.sub-heading{
+  padding: 3.5%;
+  font-size: 2.5rem;
+  color:#5BC0F8;
+}
+
+.winner{
+  font-size: 3.25rem;
+  color:#0081C9;
+  padding:  3% 0;
+}
+
+
+
+.map-img{
+  width: 300px;
+  height: 300px;
+}
